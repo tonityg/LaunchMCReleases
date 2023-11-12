@@ -55,6 +55,10 @@
       {
         "url": "https://mediafilez.forgecdn.net/files/2941/712/worldedit-forge-mc1.12.2-6.1.10-dist.jar",
         "path": "/mods/worldedit-forge-mc1.12.2-6.1.10-dist.jar"
+      },
+      {
+        "url": "https://www.googleapis.com/drive/v3/files/1ZcgEPkYdhu72S_IJTd8mTLXKkrPjso-N?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True",
+        "path": "DynamX.zip"
       }
     ]
   }
