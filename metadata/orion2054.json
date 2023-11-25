@@ -1,0 +1,12 @@
+{
+    "_COMMENT": "This file will be fetched regurarly by the launcher to check for update.",
+    "profile": {
+        "author": "OrionCorp"
+    },
+    "instance": {
+        "id": "Orion2054",
+        "thumbnailUrl": "https://cdn.discordapp.com/attachments/1166853517131128852/1173342716063645726/Logo_version_banniere_png.png",
+        "description": "Orion 2054 est un serveur Minecraft en développement.",
+        "color": "#a90bba"
+    }
+}
