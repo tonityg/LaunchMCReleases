@@ -7,5 +7,14 @@
         "coverUrl": "https://img.lemde.fr/2023/05/11/0/0/1600/600/1920/0/75/0/b1347c3_1683824812128-fb8f4675-955f-4930-aab4-3292ec16289e.jpg",
         "brandLogoUrl": "https://cdn.discordapp.com/attachments/1166853517131128852/1173342716063645726/Logo_version_banniere_png.png",
         "version": "1.0.0"
+    },
+    "Test": {
+        "name": "Test",
+        "instanceUrl": "https://cdn.orion2054.fr/config/instance.json",
+        "metadataUrl": "https://cdn.orion2054.fr/config/metadata.json",
+        "thumbnailUrl": "https://cdn.discordapp.com/attachments/1065056759154216981/1185986312671612979/2023-12-17_17.42.39.png",
+        "coverUrl": "https://img.lemde.fr/2023/05/11/0/0/1600/600/1920/0/75/0/b1347c3_1683824812128-fb8f4675-955f-4930-aab4-3292ec16289e.jpg",
+        "brandLogoUrl": "https://cdn.discordapp.com/attachments/1166853517131128852/1173342716063645726/Logo_version_banniere_png.png",
+        "version": "1.0.0"
     }
 }
